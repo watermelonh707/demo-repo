@@ -1,3 +1,3 @@
 # Demo
 
-Don't mind me. I'm just some random text. 
+Don't mind me. I'm just some random text. :D
